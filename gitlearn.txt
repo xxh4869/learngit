@@ -2,6 +2,7 @@
 	(1) git安装
 	(2) 开始菜单--git--git bash
 	(3) 配置用户名和邮箱地址：（global参数表示本机器所有仓库均使用下面的用户名和地址）
+		$ git config --global user.name "YOUR NAME"
 		$ git config --global user.email "YOUR EMAIL"
 
 2. 创建版本库repository
